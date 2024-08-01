@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# IBM Confidential
+# PID 5900-BAF
+# Copyright StreamSets Inc., an IBM Company 2024
 
 #
 # Licensed to the Apache Software Foundation (ASF) under one or more

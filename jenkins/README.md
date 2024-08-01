@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ## Jenkins testing using the internal Cloudera sandbox environment
 
 All the `impyla` jobs are prefixed with `impyla-`.
