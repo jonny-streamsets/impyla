@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# IBM Confidential
+# PID 5900-BAF
+# Copyright StreamSets Inc., an IBM Company 2024
 """Bootstrap setuptools installation
 
 To use setuptools in your package's setup.py, include this

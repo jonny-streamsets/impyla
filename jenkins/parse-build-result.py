@@ -1,3 +1,6 @@
+# IBM Confidential
+# PID 5900-BAF
+# Copyright StreamSets Inc., an IBM Company 2024
 #! /usr/bin/env python
 # Copyright 2014 Cloudera Inc.
 #

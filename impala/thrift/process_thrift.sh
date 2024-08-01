@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# IBM Confidential
+# PID 5900-BAF
+# Copyright StreamSets Inc., an IBM Company 2024
 # Copyright 2019 Cloudera Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
